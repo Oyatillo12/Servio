@@ -1,0 +1,10 @@
+{
+  "name": "servio",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "services/*",
+    "libs/*"
+  ],
+  "packageManager": "pnpm@10.11.0"
+}
